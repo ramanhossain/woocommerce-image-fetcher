@@ -1,9 +1,9 @@
-Table of Contents
-Installation
-Configuration
-Usage
-Troubleshooting
-License
+Table of Contents<BR><
+Installation<BR>
+Configuration<BR><
+Usage<BR>
+Troubleshooting<BR>
+License<BR>
 
 Installation
 Step 1: Download the Plugin
@@ -53,6 +53,10 @@ Plugin Not Working After Activation
 Clear your browser cache and refresh the WordPress dashboard.
 Ensure your WordPress and WooCommerce versions are compatible with the plugin.
 Check the server error logs to identify any issues.
+https://programmablesearchengine.google.com/controlpanel/all 
+
+
+
 License
 This plugin is licensed under the MIT License.
 
